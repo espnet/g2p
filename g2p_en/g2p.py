@@ -18,9 +18,9 @@ from builtins import str as unicode
 from .expand import normalize_numbers
 
 try:
-    nltk.data.find('taggers/averaged_perceptron_tagger.zip')
+    nltk.data.find('taggers/averaged_perceptron_tagger_eng.zip')
 except LookupError:
-    nltk.download('averaged_perceptron_tagger')
+    nltk.download('averaged_perceptron_tagger_eng')
 try:
     nltk.data.find('corpora/cmudict.zip')
 except LookupError:
