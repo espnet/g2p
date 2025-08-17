@@ -1,9 +1,9 @@
-#This is based on http://www minpairs talktalk net/graph html 
+#This is based on http://www minpairs talktalk net/graph html
 #Each line is formatted as follows:
 #HEADWORD|PRONUNCIATION1|PRONUNCIATION2|POS
-#HEADWORD should have PRONUNCIATION1 only if it's part-of-speech is POS 
-#Otherwise PRONUNCIATION2 is applied 
-#May, 2018  
+#HEADWORD should have PRONUNCIATION1 only if it's part-of-speech is POS
+#Otherwise PRONUNCIATION2 is applied
+#May, 2018
 #Kyubyong Park
 #https://github|com/kyubyong/g2p
 ABSENT|AH1 B S AE1 N T|AE1 B S AH0 N T|V

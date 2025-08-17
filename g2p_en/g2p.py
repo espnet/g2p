@@ -191,4 +191,3 @@ if __name__ == '__main__':
     for text in texts:
         out = g2p(text)
         print(out)
-
