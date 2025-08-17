@@ -77,7 +77,7 @@ Usage
 ::
 
     from g2p_en import G2p
-    
+
     texts = ["I have $250 in my pocket.", # number -> spell-out
              "popular pets, e.g. cats and dogs", # e.g. -> for example
              "I refuse to collect the refuse around here.", # homograph

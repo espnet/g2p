@@ -4,3 +4,4 @@ __pychache__
 .pypirc
 dist
 build
+g2p_en.egg-info
